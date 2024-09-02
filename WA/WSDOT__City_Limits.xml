@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>WSDOT - City Limits</title>
+                <onlink>https://data.wsdot.wa.gov/arcgis/rest/services/Shared/PoliAdminBndryData/MapServer/1</onlink>
+                <onlink>http://www.wsdot.wa.gov/mapsdata/geodatacatalog/Maps/noscale/DOT_TDO/CityLimits/CityLimits.zip</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Polygons depict the boundaries of Washington State's incorporated municipalities, as recorded by the Washington State Office of Financial Management. Attributes include city names as provided by the Washington State Office of Financial Management, and Federal Information Processing Standard codes(FIPS) as provided by the National Institute of Standards and Technology. The Washington State Office of Financial Management provided FIPS codes for cities incorporated after the National Institute of Standards and Technology's FIPS code publication date. GNIS (Geographic Name Information System) codes provided by the Washington State Department of Revenue have been included for this quarter.Metadata Please direct questions about this data to Kandie Rackleff, GIS Analyst – racklek@wsdot.wa.gov – (360)570-2366. If you are having trouble viewing the data, please contact our Online Map Support.</abstract>
+            <purpose>Incorporated City Limits Boundaries of Washington State</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>WSDOT</themekey>
+                <themekey>DOT</themekey>
+                <themekey>Washington</themekey>
+                <themekey>State</themekey>
+                <themekey>WA</themekey>
+                <themekey>Department</themekey>
+                <themekey>Transportation</themekey>
+                <themekey>TRN</themekey>
+                <themekey>018</themekey>
+                <themekey>Open</themekey>
+                <themekey>Data</themekey>
+                <themekey>Poli Admin</themekey>
+                <themekey>Bndrs</themekey>
+                <themekey>boundaries</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Data provided here is used by the Washington State Department of Transportation’s (WSDOT) transportation partners, government entities, schools, private businesses, and the general public. The WSDOT GIS Community actively promotes inter agency data exchange and resource sharing; therefore, data on this site is available for free download. WSDOT makes this data and information available as-is without any warranty, and shall not be liable for any activity involving this data with regard to lost profits or savings or any other consequential damages; or the fitness for use of the data for a particular purpose; or the installation of the data, its use, or the results obtained.</useconst>
+        <datacred>WSDOT</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20171220</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
